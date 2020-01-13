@@ -1,0 +1,11 @@
+SelectAll:
+Compressor:AttackTime="0.2" NoiseFloor="-40" Normalize="1" Ratio="2" ReleaseTime="1" Threshold="-12" UsePeak="0"
+Equalization:CurveName="deep voice 2" FilterLength="4001" InterpolateLin="0" InterpolationMethod="B-spline"
+ChangeSpeed:Percentage="10"
+ChangePitch:Percentage="-11.5" SBSMS="0"
+SelectTime:End="2" Start="0.2"
+ClipRight:
+NoiseReduction:Use_Preset="<Factory Defaults>"
+SelectAll:
+NoiseReduction:Use_Preset="<Factory Defaults>"
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="0.5" Threshold="-20" Truncate="0.5"
